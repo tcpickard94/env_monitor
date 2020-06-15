@@ -1,0 +1,6 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkrwifi1010",
+    "port": "/dev/cu.usbmodem14101"
+  }
+}
